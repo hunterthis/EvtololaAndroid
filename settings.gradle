@@ -1,0 +1,18 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+        maven {url "https://atlas.microsoft.com/sdk/android"}
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+        maven {url "https://atlas.microsoft.com/sdk/android"}
+    }
+}
+rootProject.name = "EvtololaAndroid"
+include ':app'

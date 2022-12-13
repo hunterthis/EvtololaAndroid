@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-122.55988 , 47.17278]},"properties":{"Name":"Zues","Address":"8714 87th Ave SW","City":"Lakewood","State":"Washington","ZipCode":"98499","Country":"USA","EntityType":"Passenger"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-120.52875,38.7672]},"properties":{"Name":"Athena","Address":"7720 Highway 50 Ave","City":"Uninc El Dorado County","State":"California","ZipCode":"95726","Country":"USA","EntityType":"Passenger"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-122.497516 , 47.174675]},"properties":{"Name":"Daedalus","Address":"4500 Steilacoom Blvd SW","City":"Lakewood","State":"Washington","ZipCode":"98499","Country":"USA","EntityType":"Passenger"}}
+  ]
+}
